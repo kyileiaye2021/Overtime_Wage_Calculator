@@ -1,6 +1,5 @@
 # Overtime_Wage_Calculator
-## CS002: #77215 
-##### Editor: Kyi Lei Aye
+#### Editor: Kyi Lei Aye
 
 ### Overview
 This program is created for everyone who are working in every aspect of work and who want to know their weekly payment before and after deduction amount.
