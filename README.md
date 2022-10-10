@@ -1,4 +1,4 @@
-# Overtime_Wage_Calculator
+# Weekly Paycheck Calculator
 #### Editor: Kyi Lei Aye
 
 ### Overview
