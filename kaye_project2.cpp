@@ -1,7 +1,7 @@
 //CS002: #77215
 //Kyi_Lei_Aye
 //kaye_programming_project2
-//Overtime Wage Calculator
+//Weekly Paycheck Calculator
 
 #include <iostream>
 #include <string>
